@@ -1,5 +1,6 @@
+
 [apache]
-54.156.233.189 ansible_user=ubuntu
+54.156.233.189 ansible_user=ubuntu ansible_ssh_common_args='-o StrictHostKeyChecking=no'
 
 [nginx]
-34.196.90.124 ansible_user=ubuntu
+34.196.90.124 ansible_user=ubuntu ansible_ssh_common_args='-o StrictHostKeyChecking=no'

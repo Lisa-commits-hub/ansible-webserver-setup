@@ -2,7 +2,7 @@
 localhost ansible_connection=local
 
 [apache]
-54.156.233.189 ansible_user=ubuntu ansible_ssh_private_key_file=~/.ssh/id_rsa
+3.232.113.155 ansible_user=ubuntu ansible_ssh_private_key_file=~/.ssh/id_rsa
 
 [nginx]
-34.196.90.124 ansible_user=ubuntu ansible_ssh_private_key_file=~/.ssh/id_rsa
+52.45.60.137 ansible_user=ubuntu ansible_ssh_private_key_file=~/.ssh/id_rsa
